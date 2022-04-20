@@ -11,3 +11,4 @@ Solutions
 
 Main Goals
 - Mempermudah proses pendataan pasien di dalam klinik
+- Klinik digital
