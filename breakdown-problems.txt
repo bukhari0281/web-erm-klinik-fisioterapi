@@ -1,0 +1,13 @@
+Problems
+- Input data manual
+- Proses memakan waktu
+- Data mudah mengalami masalah
+
+Market/Users (UX Customer Persona)
+- Petugas klinik(Admin)
+
+Solutions
+- Rekam medis elektronik
+
+Main Goals
+- Mempermudah proses pendataan pasien di dalam klinik
